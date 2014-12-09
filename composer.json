@@ -1,0 +1,14 @@
+{
+    "name": "zf-app/huser",
+    "description": "Test only",
+    "require": {
+        "zfcampus/zf-oauth2": "1.*"
+    },
+    "license": "1.0",
+    "authors": [
+        {
+            "name": "huangtao",
+            "email": "zhongchin123@163.com"
+        }
+    ]
+}
